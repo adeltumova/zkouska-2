@@ -8,5 +8,5 @@ obyčejný text
 
 *kurzivo*
 
--seznam
--seznam 2položka
+ - seznam
+ - seznam 2 položka
